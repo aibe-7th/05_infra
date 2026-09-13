@@ -7,6 +7,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 컨테이너 환경 구성부터 오케스트레이션, CI/CD, 모니터링 실습 저장소입니다.
 
@@ -20,3 +21,5 @@
 - [04-2. Docker Compose Nginx 로드밸런싱과 다중환경 분기](./04-2_Docker_Compose_Nginx_로드밸런싱과_다중환경_분기)
 - [05-1. 로그 및 메트릭 수집 PLG 스택과 Prometheus](./05-1_로그_및_메트릭_수집_PLG스택과_Prometheus)
 - [05-2. 경보 자동화와 클라우드 모니터링 (Alertmanager & Grafana Cloud)](./05-2_경보_자동화와_클라우드_모니터링_Alertmanager_GrafanaCloud)
+- [06. 클라우드 기초 개념과 AWS 환경 세팅](./06_클라우드_기초_개념과_AWS_환경_세팅)
+- [07-1. AWS EC2 배포 (Docker 설치와 외부 Aiven DB 연동)](./07-1_AWS_EC2_배포_Docker_설치와_외부_Aiven_DB_연동)
