@@ -23,3 +23,5 @@
 - [05-2. 경보 자동화와 클라우드 모니터링 (Alertmanager & Grafana Cloud)](./05-2_경보_자동화와_클라우드_모니터링_Alertmanager_GrafanaCloud)
 - [06. 클라우드 기초 개념과 AWS 환경 세팅](./06_클라우드_기초_개념과_AWS_환경_세팅)
 - [07-1. AWS EC2 배포 (Docker 설치와 외부 Aiven DB 연동)](./07-1_AWS_EC2_배포_Docker_설치와_외부_Aiven_DB_연동)
+- [07-2. AWS EC2 Docker Compose 배포와 Nginx 리버스 프록시](./07-2_AWS_EC2_Docker_Compose_배포와_Nginx_리버스_프록시)
+- [07-3. AWS 관리형 서비스 연동 (RDS, S3, ElastiCache, ALB)](./07-3_AWS_관리형_서비스_연동_RDS_S3_ElastiCache_ALB)
