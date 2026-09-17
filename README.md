@@ -26,3 +26,4 @@
 - [07-2. AWS EC2 Docker Compose 배포와 Nginx 리버스 프록시](./07-2_AWS_EC2_Docker_Compose_배포와_Nginx_리버스_프록시)
 - [07-3. AWS 관리형 서비스 연동 (RDS, S3, ElastiCache, ALB)](./07-3_AWS_관리형_서비스_연동_RDS_S3_ElastiCache_ALB)
 - [08. Git GitHub Actions CI 파이프라인과 자동화 테스트](./08_Git_GitHub_Actions_CI_파이프라인과_자동화_테스트)
+- [09. AWS EC2 CD 파이프라인 구축과 배포 자동화](./09_AWS_EC2_CD_파이프라인_구축과_배포_자동화)
